@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="homework.test.TestSaveFile" tests="5" skipped="0" failures="0" errors="0" timestamp="2022-06-10T15:33:27" hostname="DESKTOP-S7BCLTP" time="0.051">
+  <properties/>
+  <testcase name="Р”Р°РЅРЅС‹Рµ СѓСЃРїРµС€РЅРѕ Р·Р°Р°СЂС…РёРІРёСЂРѕРІР°РЅС‹" classname="homework.test.TestSaveFile" time="0.037"/>
+  <testcase name="Р”Р°РЅРЅС‹Рµ СѓСЃРїРµС€РЅРѕ СѓРґР°Р»РµРЅС‹" classname="homework.test.TestSaveFile" time="0.001"/>
+  <testcase name="РџСѓС‚СЊ Рє С„Р°Р№Р»Сѓ СѓРєР°Р·Р°РЅ" classname="homework.test.TestSaveFile" time="0.004"/>
+  <testcase name="Р”Р°РЅРЅС‹Рµ СѓСЃРїРµС€РЅРѕ СЃРѕС…СЂР°РЅРµРЅС‹" classname="homework.test.TestSaveFile" time="0.003"/>
+  <testcase name="РЎРїРёСЃРѕРє РїРѕР»СЊР·РѕРІР°С‚РµР»РµР№ РЅРµ РїСѓСЃС‚РѕР№" classname="homework.test.TestSaveFile" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
